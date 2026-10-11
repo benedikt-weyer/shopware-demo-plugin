@@ -1,6 +1,6 @@
 {
-    "name": "weyer-s-e/swag-example",
-    "description": "weyer-s-e/swag-example",
+    "name": "weyer-se/demo-plugin",
+    "description": "weyer-se/demo-plugin",
     "type": "shopware-platform-plugin",
     "version": "1.0.0",
     "license": "MIT",
@@ -8,10 +8,10 @@
         "shopware/core": "~6.7.0"
     },
     "extra": {
-        "shopware-plugin-class": "WeyerSE\\SwagExample",
+        "shopware-plugin-class": "WeyerSE\\DemoPlugin",
         "label": {
-            "de-DE": "Skeleton plugin",
-            "en-GB": "Skeleton plugin"
+            "de-DE": "WeyerSE Demo Plugin",
+            "en-GB": "WeyerSE Demo Plugin"
         }
     },
     "autoload": {
