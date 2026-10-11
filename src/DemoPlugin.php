@@ -9,7 +9,7 @@ use Shopware\Core\Framework\Plugin\Context\InstallContext;
 use Shopware\Core\Framework\Plugin\Context\UninstallContext;
 use Shopware\Core\Framework\Plugin\Context\UpdateContext;
 
-class SwagExample extends Plugin
+class DemoPlugin extends Plugin
 {
     public function install(InstallContext $installContext): void
     {
